@@ -1,0 +1,4 @@
+patient_id,admission_date,discharge_date,diagnosis,department
+101,2024-03-01 14:00:00,2024-03-05 10:00:00,"Pneumonia","Respiratory"
+102,2024-03-02 09:30:00,2024-03-06 11:45:00,"Fractured Leg","Orthopedics"
+103,2024-03-03 12:15:00,2024-03-07 16:20:00,"Heart Attack","Cardiology"
